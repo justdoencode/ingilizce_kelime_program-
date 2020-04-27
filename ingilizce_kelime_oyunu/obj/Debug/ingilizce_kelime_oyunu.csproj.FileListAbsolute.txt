@@ -1,0 +1,9 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\bin\Debug\ingilizce_kelime_oyunu.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\bin\Debug\ingilizce_kelime_oyunu.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\bin\Debug\ingilizce_kelime_oyunu.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.Form1.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ingilizce_kelime_oyunu\ingilizce_kelime_oyunu\obj\Debug\ingilizce_kelime_oyunu.pdb
